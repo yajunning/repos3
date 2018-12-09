@@ -15,4 +15,8 @@ public class GitTest {
         System.out.println("who is you???");
         System.out.println("who is you???");
     }
+
+    public void show2(){
+        System.out.println("忘了update");
+    }
 }
