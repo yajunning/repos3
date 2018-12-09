@@ -19,4 +19,8 @@ public class GitTest {
     public void show(){
         System.out.println("you are bath");
     }
+
+    public void show2(){
+        System.out.println("you are bath");
+    }
 }
